@@ -1,0 +1,27 @@
+# ── Core RAG stack ────────────────────────────────────────────────────────────
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+langchain-huggingface>=0.0.3
+langchain-anthropic>=0.1.15
+langchain-ollama>=0.1.0
+
+# ── Vector store ──────────────────────────────────────────────────────────────
+faiss-cpu>=1.7.4          # use faiss-gpu if CUDA is available
+
+# ── Embeddings ────────────────────────────────────────────────────────────────
+sentence-transformers>=2.7.0
+torch>=2.0.0              # sentence-transformers dependency
+
+# ── Document loaders ──────────────────────────────────────────────────────────
+pypdf>=4.0.0              # PDF loader
+docx2txt>=0.8             # DOCX loader
+
+# ── Anthropic SDK ─────────────────────────────────────────────────────────────
+anthropic>=0.28.0
+
+# ── Config / env ──────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0
+
+# ── UI (optional) ─────────────────────────────────────────────────────────────
+streamlit>=1.35.0
