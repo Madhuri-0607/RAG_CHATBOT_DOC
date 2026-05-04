@@ -20,6 +20,11 @@ Upload your documents once, index them, and ask natural-language questions. Answ
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff788421-0685-43da-97db-70f8cf2dcd0c" />
 
+## 4
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46b25a51-65a1-4c54-90e7-83264b309ca6" />
+
+
 
 
 
