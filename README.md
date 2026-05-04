@@ -6,6 +6,23 @@ Upload your documents once, index them, and ask natural-language questions. Answ
 
 ---
 
+## ScreenShots
+
+## 1
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3aea23b4-482e-4fa4-a86e-564baa2f6426" />
+
+## 2
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e368785e-0bb9-4798-bce2-0f444565715e" />
+
+## 3
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff788421-0685-43da-97db-70f8cf2dcd0c" />
+
+
+
+
 ## ✨ Features
 
 - **Multi-format Document Support**: PDF, DOCX, TXT files
